@@ -2,3 +2,7 @@
 title = "IUI"
 authors = ["Donald Hays"]
 language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/DonaldHays/iui-docs"
+edit-url-template = "https://github.com/DonaldHays/iui-docs/edit/main/{path}"
