@@ -8,15 +8,16 @@
         <rect id="Rectangle" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round" x="97" y="38" width="248" height="193" rx="8"></rect>
         <path d="M109,46 L333,46 C335.209139,46 337,47.790861 337,50 L337,72 C337,74.209139 335.209139,76 333,76 L109,76 C106.790861,76 105,74.209139 105,72 L105,50 C105,47.790861 106.790861,46 109,46 Z" id="Rectangle" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"></path>
         <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="112.5" y="53.5" width="217" height="15" rx="2"></rect>
-        <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="477.5" y="76.5" width="100" height="15" rx="2"></rect>
         <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="477.5" y="114.5" width="100" height="15" rx="2"></rect>
-        <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="585.5" y="76.5" width="100" height="15" rx="2"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="477.5" y="136.5" width="100" height="15" rx="2"></rect>
+        <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="585.5" y="114.5" width="100" height="15" rx="2"></rect>
         <rect id="Rectangle" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round" x="462" y="61" width="239" height="306" rx="8"></rect>
-        <path d="M474,69 L689,69 C691.209139,69 693,70.790861 693,73 L693,95 C693,97.209139 691.209139,99 689,99 L474,99 C471.790861,99 470,97.209139 470,95 L470,73 C470,70.790861 471.790861,69 474,69 Z" id="Rectangle" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"></path>
-        <path d="M474,107 L689,107 C691.209139,107 693,108.790861 693,111 L693,133 C693,135.209139 691.209139,137 689,137 L474,137 C471.790861,137 470,135.209139 470,133 L470,111 C470,108.790861 471.790861,107 474,107 Z" id="Rectangle-Copy" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"></path>
-        <line x1="36.5" y1="279.5" x2="99.5" y2="279.5" id="Line" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16,6"></line>
-        <line x1="36.5" y1="335.5" x2="99.5" y2="335.5" id="Line-Copy-2" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"></line>
-        <line x1="36.5" y1="307.5" x2="99.5" y2="307.5" id="Line-Copy" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M474,107 L689,107 C691.209139,107 693,108.790861 693,111 L693,155 C693,157.209139 691.209139,159 689,159 L474,159 C471.790861,159 470,157.209139 470,155 L470,111 C470,108.790861 471.790861,107 474,107 Z" id="Rectangle" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"></path>
+        <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" x="477.5" y="76.5" width="208" height="15" rx="2"></rect>
+        <path d="M474,69 L689,69 C691.209139,69 693,70.790861 693,73 L693,95 C693,97.209139 691.209139,99 689,99 L474,99 C471.790861,99 470,97.209139 470,95 L470,73 C470,70.790861 471.790861,69 474,69 Z" id="Rectangle-Copy" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-dasharray="8"></path>
+        <line x1="36.5" y1="279" x2="99.5" y2="279" id="Line" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16,6"></line>
+        <line x1="36.5" y1="335" x2="99.5" y2="335" id="Line-Copy-2" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8"></line>
+        <line x1="36.5" y1="307" x2="99.5" y2="307" id="Line-Copy" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></line>
         <line x1="36.5" y1="363.5" x2="99.5" y2="363.5" id="Line-Copy-3" stroke="#5C8CCB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
         <text id="Window" font-family="Verdana" font-size="18" font-weight="normal" fill="#B9C2CF">
             <tspan x="109" y="286">Window</tspan>

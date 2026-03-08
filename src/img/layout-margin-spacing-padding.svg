@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="255px" viewBox="0 0 750 255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>layout-margin-spacing-padding</title>
+    <g id="layout-margin-spacing-padding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bg" fill="#141418" x="0" y="0" width="750" height="255" rx="16"></rect>
+        <rect id="Rectangle-Copy-3" fill-opacity="0.15" fill="#CB6F5C" x="359" y="144" width="32" height="73"></rect>
+        <rect id="Rectangle" fill-opacity="0.15" fill="#CB6F5C" x="38" y="111" width="674" height="33"></rect>
+        <rect id="Rectangle-Copy-4" fill-opacity="0.15" fill="#B9C2CF" transform="translate(22.000000, 127.500000) scale(-1, 1) translate(-22.000000, -127.500000) " x="6" y="38" width="32" height="179"></rect>
+        <rect id="Rectangle-Copy-7" fill-opacity="0.15" fill="#B9C2CF" transform="translate(728.000000, 127.500000) scale(-1, 1) translate(-728.000000, -127.500000) " x="712" y="38" width="32" height="179"></rect>
+        <rect id="Rectangle-Copy-5" fill-opacity="0.15" fill="#B9C2CF" x="6" y="217" width="738" height="32"></rect>
+        <rect id="Rectangle-Copy-6" fill-opacity="0.15" fill="#B9C2CF" x="6" y="6" width="738" height="32"></rect>
+        <rect id="Rectangle-Copy-8" fill-opacity="0.15" fill="#5CCB6C" x="40" y="40" width="670" height="24"></rect>
+        <rect id="Rectangle-Copy-9" fill-opacity="0.15" fill="#5CCB6C" x="40" y="85" width="670" height="24"></rect>
+        <rect id="Rectangle" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round" x="4" y="4" width="742" height="247" rx="14"></rect>
+        <rect id="Rectangle" stroke="#5C8CCB" stroke-width="3" fill-opacity="0.15" fill="#5C8CCB" stroke-linecap="round" x="38.5" y="38.5" width="673" height="72" rx="16"></rect>
+        <rect id="Rectangle-Copy" stroke="#5C8CCB" stroke-width="3" fill-opacity="0.15" fill="#5C8CCB" stroke-linecap="round" x="38.5" y="144.5" width="319" height="72" rx="16"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#5C8CCB" stroke-width="3" fill-opacity="0.15" fill="#5C8CCB" stroke-linecap="round" x="392.5" y="144.5" width="319" height="72" rx="16"></rect>
+        <text id="Lorem-Ipsum" font-family="Verdana" font-size="24" font-weight="normal" fill="#5C8CCB">
+            <tspan x="295" y="84">Lorem Ipsum</tspan>
+        </text>
+        <line x1="188" y1="116" x2="188" y2="139" id="Line-2" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="188" y1="128" x2="197" y2="128" id="Line-2-Copy" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="386.75" y1="153.25" x2="363.75" y2="153.25" id="Line-2-Copy-3" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="375" y1="141.25" x2="375" y2="152" id="Line-2-Copy-2" stroke="#CB6F5C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="33.75" y1="193.25" x2="10.75" y2="193.25" id="Line-2-Copy-5" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="22" y1="195.25" x2="22" y2="217" id="Line-2-Copy-4" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round"></line>
+        <text id="Spacing" font-family="Verdana" font-size="18" font-weight="normal" fill="#CB6F5C">
+            <tspan x="202" y="134">Spacing</tspan>
+        </text>
+        <line x1="188" y1="10" x2="188" y2="33" id="Line-2-Copy-7" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="188" y1="22" x2="197" y2="22" id="Line-2-Copy-6" stroke="#B9C2CF" stroke-width="4" stroke-linecap="round"></line>
+        <text id="Margin" font-family="Verdana" font-size="18" font-weight="normal" fill="#B9C2CF">
+            <tspan x="202" y="28">Margin</tspan>
+        </text>
+        <line x1="188" y1="44" x2="188" y2="60" id="Line-2-Copy-9" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="188" y1="52" x2="197" y2="52" id="Line-2-Copy-8" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round"></line>
+        <text id="Padding" font-family="Verdana" font-size="18" font-weight="normal" fill="#5CCB6C">
+            <tspan x="202" y="58">Padding</tspan>
+        </text>
+        <line x1="188" y1="89" x2="188" y2="105" id="Line-2-Copy-11" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="188" y1="97" x2="197" y2="97" id="Line-2-Copy-10" stroke="#5CCB6C" stroke-width="4" stroke-linecap="round"></line>
+        <text id="Padding-Copy" font-family="Verdana" font-size="18" font-weight="normal" fill="#5CCB6C">
+            <tspan x="202" y="103">Padding</tspan>
+        </text>
+        <text id="Margin" font-family="Verdana" font-size="18" font-weight="normal" fill="#B9C2CF">
+            <tspan x="13" y="238">Margin</tspan>
+        </text>
+        <text id="Spacing-Copy" font-family="Verdana" font-size="18" font-weight="normal" fill="#CB6F5C">
+            <tspan x="339" y="134">Spacing</tspan>
+        </text>
+    </g>
+</svg>

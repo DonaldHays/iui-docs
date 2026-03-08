@@ -10,6 +10,8 @@ The layout engine is built around two key concepts: panels and rows. Panels are 
 ## Margin, Spacing, Padding
 In `iui.style`, three properties guide the layout engine, `margin`, `spacing`, and `padding`.
 
+![Layout diagram showing margin, spacing, and padding](./img/layout-margin-spacing-padding.svg)
+
 The `margin` insets rows within a panel, creating a gap between the edges of rows and their panels.
 
 The layout engine uses `spacing` to add gaps between widgets in rows. The `spacing` also applies to the vertical space between rows.
