@@ -68,10 +68,11 @@ The [sample project](https://github.com/DonaldHays/iui-sample) uses this pattern
 
 **Split Views**
 
-| Key              | Default | Description                                                                                              |
-| ---------------- | ------- | -------------------------------------------------------------------------------------------------------- |
-| `"splitMinEdge"` | 8       | The minimum width of the left panel of horizontal split views, or top panel of vertical split views.     |
-| `"splitMaxEdge"` | 8       | The minimum width of the right panel of horizontal split views, or bottom panel of vertical split views. |
+| Key              | Default | Description                                                                                                                            |
+| ---------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `"splitMinEdge"` | 8       | The minimum width of the left panel of horizontal split views, or top panel of vertical split views.                                   |
+| `"splitMaxEdge"` | 8       | The minimum width of the right panel of horizontal split views, or bottom panel of vertical split views.                               |
+| `"splitSide"`    | `"min"` | Controls whether the split view's `current` argument controls the distance from the `"min"` (left/top) or `"max"` (right/bottom) edge. |
 
 **VR**
 
