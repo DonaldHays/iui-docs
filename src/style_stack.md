@@ -74,6 +74,12 @@ The [sample project](https://github.com/DonaldHays/iui-sample) uses this pattern
 | `"splitMaxEdge"` | 8       | The minimum width of the right panel of horizontal split views, or bottom panel of vertical split views.                               |
 | `"splitSide"`    | `"min"` | Controls whether the split view's `current` argument controls the distance from the `"min"` (left/top) or `"max"` (right/bottom) edge. |
 
+**Images**
+
+| Key           | Default       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `"imageMode"` | `"aspectFit"` | How images are sized and placed in their widget bounds.<br><br>- `"fill"`: Fills the entire widget, distorting the aspect ratio as necessary<br>- `"aspectFit"`: Centers and resizes the image to fill as much of the widget as possible, preserving aspect ratio, without spilling out of its bounds<br>- `"aspectFill"`: Centers and resizes the image to fill the entirety of the widget, preserving aspect ratio, potentially spilling out of its bounds<br>- `"center"`: Draws the image at its original size in the center of the widget, potentially spilling out of its bounds |
+
 **VR**
 
 | Key                      | Default | Description                                                                                                   |
