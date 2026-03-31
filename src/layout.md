@@ -89,6 +89,11 @@ By default, intrinsic width columns will place as many columns in a row as will 
 
 > [!IMPORTANT]
 > Intrinsic width columns measure their aggregate content size as they go, but this size isn't available until after layout has been performed once. This creates a problem if you need that size *before* placing widgets, such as to size their containing panel. It's up to you to decide how to handle this. Built-in widgets that use intrinsic width columns, like submenu panels, don't draw anything on the first frame, instead using that frame only to calculate the size of the panel.
+### Fill Panel
+If you just want to make a widget fill its entire panel, horizontally and vertically, you may call `iui.layout.fillPanel()`. This will cause the next widget you place to fill the entire rest of the panel.
+
+This is a convenience API that uses row layout, but with a manually calculated row height.
+
 ## Margin, Spacing, Padding
 In [`iui.style`](./style_stack.md), three properties guide the layout engine, `margin`, `spacing`, and `padding`.
 
