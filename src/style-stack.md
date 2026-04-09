@@ -1,5 +1,5 @@
 # The Style Stack
-To add a widget to a UI, you call a widget function and pass some arguments. These arguments typically include a name, a value, and maybe a few other things. However, widgets may potentially support *many* different customization options. To include all these options in the function signature would require lengthy argument lists. As an alternative, IUI offers `iui.style`, a table-like object.
+To add a widget to a UI, you call a widget function and pass some arguments. These arguments typically include a name, a value, and maybe a few other things. However, widgets may potentially support *many* different customization options. To include all these options in the function signature would require lengthy argument lists. As an alternative, IUI offers [`iui.style`](./iui-style.md), a table-like object.
 
 ## Basics
 At its simplest, `iui.style` behaves like a table. You can assign values to keys, and widgets can retrieve those values. For example, widgets use the font stored in the `"font"` key when drawing text.

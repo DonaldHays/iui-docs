@@ -95,7 +95,7 @@ If you just want to make a widget fill its entire panel, horizontally and vertic
 This is a convenience API that uses row layout, but with a manually calculated row height.
 
 ## Margin, Spacing, Padding
-In [`iui.style`](./style_stack.md), three properties guide the layout engine, `margin`, `spacing`, and `padding`.
+In [`iui.style`](style-stack.md), three properties guide the layout engine, `margin`, `spacing`, and `padding`.
 
 ![Layout diagram showing margin, spacing, and padding](./img/layout-margin-spacing-padding.svg)
 
