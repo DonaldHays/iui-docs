@@ -30,6 +30,7 @@
 - [`iui.image9Slice`](./iui-image9-slice.md)
 - [`iui.image`](./iui-image.md)
 - [`iui.label`](./iui-label.md)
+- [`iui.listView`](./iui-list-view.md)
 - [`iui.menuBar`](./iui-menu-bar.md)
 - [`iui.menuItem`](./iui-menu-item.md)
 - [`iui.msdfImage9Slice`](./iui-msdf-image9-slice.md)
