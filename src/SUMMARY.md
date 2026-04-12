@@ -8,6 +8,7 @@
 - [LÖVR - Desktop](./sample-lovr-desktop.md)
 - [LÖVR - VR](./sample-lovr-vr.md)
 # Guides
+- [Identifiers](./identifiers.md)
 - [Layout](./layout.md)
 - [The Style Stack](style-stack.md)
 - [Utilities for Undo/Redo Support](./undo-redo-utils.md)
